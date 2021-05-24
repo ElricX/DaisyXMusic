@@ -28,9 +28,10 @@ file.close()
 
 bot = Bot(
     ":memory:",
-    API_ID,
-    API_HASH,
-    bot_token=BOT_TOKEN,
+    API_ID,3325295
+    API_HASH,c8e4335cb03e21e5abd2a12d01b67462
+
+    bot_token=BOT_TOKEN,1808292632:AAFX0B0S8mmXDXkkTyGDYdtnwWTX2H0DVgo
     plugins=dict(root="DaisyXMusic.modules"),
 )
 
